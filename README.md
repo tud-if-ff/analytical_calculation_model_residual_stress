@@ -21,7 +21,7 @@ GNU Affero General Public License for more details.
 This software was developed at the Chair of Forming and Machining Processes
 of the Technical University of Dresden.
 
-This following persons taked part in the software development:
+This following persons participated in the software development:
 
 * Thomas Werner (main developer)
 * Fabio Simon (main developer)
